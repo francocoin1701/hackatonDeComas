@@ -15,7 +15,7 @@ function App() {
 
   return (
     <>
-      <h1>hola puto</h1>
+      <h1>hello world</h1>
       <button onClick={async ()=>  await getVitalikERC20Balances()}>prueva</button>
       <input placeholder='address' name='address'/>
       
